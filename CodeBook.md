@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Coursera #
+# Getting and Cleaning Data : Coursera #
 
 ## CODE BOOK for run_analysis.R file ##
 The dataset for this code book to is present in the tidy.txt file of this repository.
